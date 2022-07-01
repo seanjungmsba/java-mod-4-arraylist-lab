@@ -1,10 +1,5 @@
 # ArrayList Lab
 
-## Learning Goals
-
-- Learning Goal 1
-- Learning Goal 2
-
 ## Instructions
 
 Create a method called `mergeTwoArrayLists` which takes in two ArrayLists as
